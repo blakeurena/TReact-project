@@ -4,7 +4,7 @@ A responsive marketing/landing page inspired by **Treact** UI templates. Built a
 
 ## Preview
 
-- Entry point: `index (1).html`
+- Entry point: `index.html`
 - Styling: `style.css`
 - Scripts: `script.js`
 - Assets: `assets 3/`
@@ -26,12 +26,12 @@ A responsive marketing/landing page inspired by **Treact** UI templates. Built a
    git clone https://github.com/blakeurena/TReact-project.git
    cd TReact-project
    ```
-2. Open `index (1).html` in your browser.
+2. Open `index.html` in your browser.
 
 ### Option B: Run with a local dev server (recommended)
 Using VS Code **Live Server** extension:
 1. Open the project folder in VS Code
-2. Right-click `index (1).html` → **Open with Live Server**
+2. Right-click `index.html` → **Open with Live Server**
 
 Or using Python:
 ```bash
