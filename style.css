@@ -42,11 +42,9 @@ main {
 }
 
 
-/* 
-
-NAVBAR ↓
-
-*/
+/* =========================
+   NAV/ BAR
+========================= */
 
 
 nav {
@@ -1351,4 +1349,5 @@ MOBILE RESPONSIVENESS ↓
 /* spacing for quality section */
 .quality__btn {
   margin-top: 24px;
+
 }
