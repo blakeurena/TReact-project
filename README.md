@@ -45,7 +45,7 @@ Then visit `http://localhost:5173`.
 ```text
 .
 ├── assets 3/          # images + SVGs used by the page
-├── index (1).html     # main HTML file
+├── index.html     # main HTML file
 ├── style.css          # site styles
 ├── script.js          # menu open/close logic
 └── README.md
